@@ -26,11 +26,7 @@ public class Quadratic {
 		else
 		{
 			System.out.println("The root are not real");
-		}
-		
-		
-		
-		
+		}	
 	}
 
 }
